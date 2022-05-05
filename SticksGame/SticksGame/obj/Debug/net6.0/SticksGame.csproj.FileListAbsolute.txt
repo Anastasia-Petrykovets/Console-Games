@@ -1,0 +1,15 @@
+D:\.netProjects\SticksGame\SticksGame\bin\Debug\net6.0\SticksGame.exe
+D:\.netProjects\SticksGame\SticksGame\bin\Debug\net6.0\SticksGame.deps.json
+D:\.netProjects\SticksGame\SticksGame\bin\Debug\net6.0\SticksGame.runtimeconfig.json
+D:\.netProjects\SticksGame\SticksGame\bin\Debug\net6.0\SticksGame.dll
+D:\.netProjects\SticksGame\SticksGame\bin\Debug\net6.0\ref\SticksGame.dll
+D:\.netProjects\SticksGame\SticksGame\bin\Debug\net6.0\SticksGame.pdb
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\SticksGame.csproj.AssemblyReference.cache
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\SticksGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\SticksGame.AssemblyInfoInputs.cache
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\SticksGame.AssemblyInfo.cs
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\SticksGame.csproj.CoreCompileInputs.cache
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\SticksGame.dll
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\ref\SticksGame.dll
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\SticksGame.pdb
+D:\.netProjects\SticksGame\SticksGame\obj\Debug\net6.0\SticksGame.genruntimeconfig.cache

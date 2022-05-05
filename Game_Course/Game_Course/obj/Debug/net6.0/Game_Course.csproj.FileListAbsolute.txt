@@ -1,0 +1,16 @@
+D:\.netProjects\Game_Course\Game_Course\bin\Debug\net6.0\Game_Course.exe
+D:\.netProjects\Game_Course\Game_Course\bin\Debug\net6.0\Game_Course.deps.json
+D:\.netProjects\Game_Course\Game_Course\bin\Debug\net6.0\Game_Course.runtimeconfig.json
+D:\.netProjects\Game_Course\Game_Course\bin\Debug\net6.0\Game_Course.dll
+D:\.netProjects\Game_Course\Game_Course\bin\Debug\net6.0\ref\Game_Course.dll
+D:\.netProjects\Game_Course\Game_Course\bin\Debug\net6.0\Game_Course.pdb
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\Game_Course.csproj.AssemblyReference.cache
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\Game_Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\Game_Course.AssemblyInfoInputs.cache
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\Game_Course.AssemblyInfo.cs
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\Game_Course.csproj.CoreCompileInputs.cache
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\Game_Course.dll
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\ref\Game_Course.dll
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\Game_Course.pdb
+D:\.netProjects\Game_Course\Game_Course\obj\Debug\net6.0\Game_Course.genruntimeconfig.cache
+D:\.netProjects\Game_Course\Game_Course\bin\Debug\net6.0\WordsStockRus.txt
